@@ -1,0 +1,22 @@
+body{
+background:black;
+    text-align: center;
+}
+
+#apps{
+    background-color:aquamarine
+}
+
+#games{
+    background-color: burlywood;
+}
+
+section{
+    margin:0px;
+        padding:30px;
+}
+
+#slideshow{
+    background-color: aqua;
+    
+}
